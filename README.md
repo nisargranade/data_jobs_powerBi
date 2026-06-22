@@ -1,6 +1,6 @@
 # My Power BI Dashboard Portfolio 📊
 
-Data Nerds! This repository is a collection of Power BI dashboards I've developed. It tracks my journey in using Power BI, from foundational reports to more advanced interactive analyses, all aimed at turning data into clear, actionable insights.
+This repository is a collection of Power BI dashboards I've developed. It tracks my journey in using Power BI, from foundational reports to more advanced interactive analyses, all aimed at turning data into clear, actionable insights.
 
 # Featured Dashboards
 
@@ -8,9 +8,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 ## 📉 Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
-![Data Jobs DB GIF](/images/Project1_Page1.png)
-
-[🌐 **View Interactive Dashboard on Power BI Service**](https://lukeb.co/powerbi-project1)
+![Data Jobs DB GIF](/image1.png)
 
 **Key Power BI Skills Utilized:**
 * 🎨 Dashboard Layout & Design
@@ -24,13 +22,12 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 * 🔘 Buttons & Bookmarks for Page Navigation
 * ➡️ Drill-Through Functionality
 
-[➡️ **View Full Project 1 Details (README)**](/Data_Jobs_v1/README.md)
+[➡️ **View Full Project 1 Details (README)**](data-jobs-powerbi-dashboard
+/README.md)
 
 ## 📊 Data Jobs Dashboard 2.0 (V2 - Single-Page Focus
 
-![Data Jobs Dashboard 2.0](/images/Project2_Page1.png)
-
-[🌐 **View Interactive Dashboard on Power BI Service**](https://lukeb.co/powerbi-project2)
+![Data Jobs Dashboard 2.0](/image2.png)
 
 **Key Power BI Skills Utilized (demonstrating progression):**
 * 🎨 Advanced Dashboard Design (Single-Page UX & Optimization)
@@ -44,7 +41,8 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 * 🎚️ Optimized Slicers & Advanced Cross-Filtering Techniques
 * ✨ Report Performance Considerations
 
-[➡️ **View Full Project 2 Details (README)**](/Data_Jobs_v2/README.md)
+[➡️ **View Full Project 2 Details (README)**](data-jobs-powerbi-dashboard
+/README.md)
 
 ---
 
