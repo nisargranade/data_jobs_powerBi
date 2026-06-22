@@ -22,9 +22,6 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 * 🔘 Buttons & Bookmarks for Page Navigation
 * ➡️ Drill-Through Functionality
 
-[➡️ **View Full Project 1 Details (README)**](data_jobs_powerBi
-/README.md)
-
 ## 📊 Data Jobs Dashboard 2.0 (V2 - Single-Page Focus
 
 ![Data Jobs Dashboard 2.0](/image2.png)
@@ -40,10 +37,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 * 🔢 Advanced Card Visualizations
 * 🎚️ Optimized Slicers & Advanced Cross-Filtering Techniques
 * ✨ Report Performance Considerations
-
-[➡️ **View Full Project 2 Details (README)**](data_jobs_powerBi
-/README.md)
-
+  
 ---
 
 ## About This Portfolio
